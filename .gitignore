@@ -4,4 +4,4 @@
 
 !.gitignore
 
-!.ABC/*
+!.ABC/**
