@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# myAdd
+*/
+!ABC/
+!AGC/
+!AHC/
+!ARC/
+!CF/
+!CodeChef/
+!GCJ/
+!Library/
+!YukiCoder/
+!*.ccp
+#GCJ/ 
+#*.py
+#*.txt
