@@ -3,6 +3,7 @@
 *
 !*/
 !.gitignore
-
+!*.cpp
 paiza/*
 track/*
+Other/*
